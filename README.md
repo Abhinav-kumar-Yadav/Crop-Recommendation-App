@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# AgriAI - Smart Farming Dashboard
+
+# AgriAI - Smart Farming Dashboard  
 
 A comprehensive crop recommendation platform with AI-powered insights, built with Node.js, Express, and Handlebars.
 
